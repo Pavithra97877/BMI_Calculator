@@ -1,5 +1,6 @@
 # Ex06 BMI Calculator
-## Date:
+# NAME : PAVITHRA S
+# REG NO : 212223220072
 
 ## AIM
 To create a BMI calculator using React Router 
